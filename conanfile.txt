@@ -1,0 +1,6 @@
+[requires]
+crashpad/20200508@bincrafters/stable
+
+[generators]
+cmake_find_package
+cmake_paths
